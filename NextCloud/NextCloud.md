@@ -2,7 +2,7 @@
 
 ## Pré-requisitos
 
-![requisitos](/NextCloud//assets/img/requisitos.png)
+![requisitos](/NextCloud/assets/img/requisitos.png)
 
 ## Instale Apache, MariaDB e PHP
 
