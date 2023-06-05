@@ -6,7 +6,7 @@
 
 ## Instale Apache, MariaDB e PHP
 
-[1. Instalação php](/PHP/php.md)
+[1. Instalação php](/NextCloud/PHP/php.md)
 
 [2. Instalação apache](/APACHE/apache.md)
 
