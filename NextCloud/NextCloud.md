@@ -8,7 +8,7 @@
 
 [1. Instalação php](/NextCloud/PHP/php.md)
 
-[2. Instalação apache](/APACHE/apache.md)
+[2. Instalação apache](/NextCloud//APACHE/apache.md)
 
 Depois que todos os pacotes estiverem instalados, abra o arquivo php.ini e ajuste algumas configurações recomendadas:
 
